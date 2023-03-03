@@ -1,0 +1,15 @@
+[
+null,
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":819,"scrollY":478},
+{"id":2,"expanded":true,"name":"Frente da escola","order":2,"parentId":1,"scrollX":811,"scrollY":482},
+{"id":3,"expanded":true,"name":"Escola","order":3,"parentId":2,"scrollX":811,"scrollY":482},
+{"id":4,"expanded":true,"name":"Corredor de aulas","order":4,"parentId":3,"scrollX":811,"scrollY":490},
+{"id":5,"expanded":true,"name":"Direções","order":5,"parentId":4,"scrollX":811,"scrollY":482},
+{"id":6,"expanded":true,"name":"Diretor da escola","order":6,"parentId":5,"scrollX":819,"scrollY":478},
+{"id":7,"expanded":true,"name":"Diretor da Ouro","order":7,"parentId":6,"scrollX":819,"scrollY":478},
+{"id":8,"expanded":true,"name":"Sala de aula de artes","order":8,"parentId":7,"scrollX":459,"scrollY":312.5},
+{"id":9,"expanded":true,"name":"Sala de aula","order":9,"parentId":8,"scrollX":459,"scrollY":312.5},
+{"id":10,"expanded":true,"name":"Sala de TI","order":10,"parentId":9,"scrollX":819,"scrollY":478},
+{"id":11,"expanded":true,"name":"Sala de aula de culinaria","order":11,"parentId":10,"scrollX":819,"scrollY":478},
+{"id":12,"expanded":false,"name":"MAP012","order":12,"parentId":0,"scrollX":819,"scrollY":478}
+]
